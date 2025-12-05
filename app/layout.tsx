@@ -13,8 +13,9 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Next demo",
-  description: "next16 sample app",
+  title: "アニマルQuiz",
+  description: "動物のアイコンを見て名前を当てるクイズアプリです",
+  
 };
 
 export default function RootLayout({
